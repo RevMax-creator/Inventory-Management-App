@@ -123,7 +123,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ---
 
 ## 📝 License
-This project is open-source and available under the [Modified Creative Commons License](https://github.com/RevMax-creator/Inventory-Management-System-React-Native?tab=License-1-ov-file).
+This project is open-source and available under the [Modified Creative Commons License](https://github.com/RevMax-creator/Inventory-Management-App?tab=License-1-ov-file).
 
 ---
 
